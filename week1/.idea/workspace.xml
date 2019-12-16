@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="CUSTOM_SCOPE_NAME" value="All Places" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="af1912ed-21cc-428a-8ea5-d9bffddd0eca" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1S3ifyzQdQ52wPA5FjmMP2x6Vfa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="arrayGenerator.ListingGeneratorTest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../week3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="arrayGenerator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="searcher" />
+      <recent name="timer" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="arrayGenerator.ListingGeneratorTest" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hugh\IdeaProjects\week1\timer" />
+      <recent name="C:\Users\Hugh\IdeaProjects\week1\tests\searcher" />
+      <recent name="C:\Users\Hugh\IdeaProjects\week1\tests" />
+      <recent name="C:\Users\Hugh\IdeaProjects\week1\src\searcher" />
+      <recent name="C:\Users\Hugh\IdeaProjects\week1\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CleverRandomListingGeneratorTest">
+    <configuration name="CleverSearcherTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searcher.CleverSearcherTimer" />
+      <module name="week1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleSearcherTimer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searcher.SimpleSearcherTimer" />
+      <module name="week1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CleverRandomListingGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arrayGenerator" />
+      <option name="MAIN_CLASS_NAME" value="arrayGenerator.CleverRandomListingGeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CleverSearcherTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searcher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="searcher" />
+      <option name="MAIN_CLASS_NAME" value="searcher.CleverSearcherTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedListingGeneratorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrayGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="arrayGenerator" />
+      <option name="MAIN_CLASS_NAME" value="arrayGenerator.SortedListingGeneratorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CleverSearcherTimer" />
+      <item itemvalue="Application.SimpleSearcherTimer" />
+      <item itemvalue="JUnit.SortedListingGeneratorTest" />
+      <item itemvalue="JUnit.CleverRandomListingGeneratorTest" />
+      <item itemvalue="JUnit.CleverSearcherTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CleverRandomListingGeneratorTest" />
+        <item itemvalue="Application.CleverSearcherTimer" />
+        <item itemvalue="Application.SimpleSearcherTimer" />
+        <item itemvalue="JUnit.CleverSearcherTest" />
+        <item itemvalue="JUnit.SortedListingGeneratorTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af1912ed-21cc-428a-8ea5-d9bffddd0eca" name="Default" comment="" />
+      <created>1538136540065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538136540065</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1038" y="438" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576505790838">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1038" y="438" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1576505790838" />
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1576506559539">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1576506559539" />
+    <state width="2517" height="2" key="GridCell.Tab.0.bottom" timestamp="1576508541771">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="2" key="GridCell.Tab.0.bottom/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1576508541771" />
+    <state width="2517" height="2" key="GridCell.Tab.0.center" timestamp="1576508541771">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="2" key="GridCell.Tab.0.center/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1576508541771" />
+    <state width="2517" height="2" key="GridCell.Tab.0.left" timestamp="1576508541771">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="2" key="GridCell.Tab.0.left/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1576508541771" />
+    <state width="2517" height="2" key="GridCell.Tab.0.right" timestamp="1576508541771">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="2" key="GridCell.Tab.0.right/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1576508541771" />
+    <state x="760" y="274" key="SettingsEditor" timestamp="1576503290187">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="274" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1576503290187" />
+    <state x="976" y="523" key="com.intellij.ide.util.TipDialog" timestamp="1576503230519">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="523" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1576503230519" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="week1" type="b2602c69:ProjectViewProjectNode" />
+        <item name="week1" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
